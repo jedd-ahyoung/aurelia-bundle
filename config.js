@@ -15,7 +15,7 @@ System.config({
     "aurelia-bundle": "https://cdn.rawgit.com/jedd-ahyoung/aurelia-bundle/master/dist/aurelia-bundle"
   },
   bundles: {
-    "dist/aurelia-bundle.js": [
+    "aurelia-bundle": [
       "dist/main.js",
       "github:twbs/bootstrap@3.3.7",
       "github:twbs/bootstrap@3.3.7/js/bootstrap",
